@@ -2,7 +2,7 @@
 
 ![tinycon logo](tinycon.png)
 
-_tinycon_ (noun) - A place to share technical topics with low preparation and no homework.
+_tinycon_ (noun) - A place to share technical topics with low preparation and no homework. Open. Optional. Fun.
 
 ## Kinds of things to share
 
