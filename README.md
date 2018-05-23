@@ -14,3 +14,8 @@ _tinycon_ (noun) - A place to learn and share technical topics with low preparat
 * What tools do you use in your daily work? Let everyone look over your shoulder by doing a live demo.
 
 For anything you're sharing, consider what takeaways you hope people can get from your topic. And for anything you're sharing; prepare your material if it's helpful to you, but remember that it's also helpful for others to see how you might approach and solve a problem. It's OK if you stumble through.
+
+## TODO
+
+[] Create stickers
+[] Create tiny fliers with short URL
