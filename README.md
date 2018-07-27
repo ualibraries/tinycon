@@ -15,6 +15,16 @@ _tinycon_ (noun) - A place to learn and share technical topics with low preparat
 
 For anything you're sharing, consider what takeaways you hope people can get from your topic. And for anything you're sharing; prepare your material if it's helpful to you, but remember that it's also helpful for others to see how you might approach and solve a problem. It's OK if you stumble through.
 
+## Formats
+
+* Show and tell
+* Masterclass
+* Like to like
+* Phone an expert
+* Debate
+* Blind leading the blind
+* Game
+
 ## Todo
 
 - [ ] Create stickers
