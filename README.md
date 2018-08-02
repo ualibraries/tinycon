@@ -24,6 +24,7 @@ For anything you're sharing, consider what takeaways you hope people can get fro
 * Debate
 * Blind leading the blind
 * Game
+* Live coding
 
 ## Todo
 
