@@ -4,7 +4,22 @@
 
 _tinycon_ (noun) - A place to learn and share technical topics with low preparation and no homework Open. Optional. Fun.
 
-## Kinds of things to share
+—
+
+## How it works
+
+Every month, IT Professional from across the University of Arizona gather for a tiny conference with crowd-sourced topics. The topics are issues in this GitHub repository, and are chosen based on the number of upvotes they receive.
+
+### Suggesting and voting for topics
+
+* To suggest a new topic, create a new issue and give it the `topic` label. See below for kinds of things to share.
+* If you want a topic to be chosen for the next tinycon, [give it a thumbs-up reaction](https://blog.github.com/2016-03-10-add-reactions-to-pull-requests-issues-and-comments/).
+
+## How to join
+
+Tinycon is open to the public and you don't have to do anything to join. If you want to get an official invite delivered to your inbox every month, let me (Christopher Green) know by sending an email to cg433n@email.arizona.edu and I will add you to the tinycon email list. The official invite tells you when and where we are going to meet and which topic was chosen.
+
+## Kinds of things to share (these make good topics)
 
 * Is there anything you do as part of your daily work that others may not know about? If it would help others to know, share it here.
 * If you do 10% time, what are you learning about? If at least one other person would be interested, it's probably valuable to share.
@@ -15,7 +30,7 @@ _tinycon_ (noun) - A place to learn and share technical topics with low preparat
 
 For anything you're sharing, consider what takeaways you hope people can get from your topic. And for anything you're sharing; prepare your material if it's helpful to you, but remember that it's also helpful for others to see how you might approach and solve a problem. It's OK if you stumble through.
 
-## Formats
+## Every topic can be shared using a different format. Here are a few:
 
 * Show and tell
 * Masterclass
