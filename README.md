@@ -4,11 +4,13 @@
 
 _tinycon_ (noun) - A place to learn and share technical topics with low preparation and no homework Open. Optional. Fun.
 
-—
+---
 
 ## How it works
 
-Every month, IT Professional from across the University of Arizona gather for a tiny conference with crowd-sourced topics. The topics are issues in this GitHub repository, and are chosen based on the number of upvotes they receive.
+Every month, IT Professional from across the University of Arizona gather for a tiny conference with crowd-sourced topics. The topics are issues in this GitHub repository, and are chosen based on the number of thumbs-up (👍) reactions they receive.
+
+[See all proposed topics, sorted by thumbs-up reactions.](https://github.com/ualibraries/tinycon/issues?q=is%3Aissue+is%3Aopen+sort%3Areactions-%2B1-desc)
 
 ### Suggesting and voting for topics
 
